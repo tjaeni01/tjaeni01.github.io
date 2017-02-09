@@ -1,0 +1,31 @@
+html {
+    background: #99e6ff;
+}
+
+body {
+    background: #fff;
+    color: #545454;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    max-width: 800px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+}
+
+h2 {
+    margin-top: 1.3em;
+}
+
+a {
+    border: 5px solid gray;
+    margin: 10px;
+}
+
+img {
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
