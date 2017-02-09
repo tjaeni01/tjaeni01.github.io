@@ -3,8 +3,7 @@ html {
 }
 
 body {
-    background: #fff;
-    color: #545454;
+    background: #99e6ff;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-size: 16px;
     line-height: 1.5;
@@ -20,7 +19,7 @@ h2 {
 }
 
 a {
-    border: 5px solid gray;
+    border: 1px solid gray;
     margin: 10px;
 }
 
