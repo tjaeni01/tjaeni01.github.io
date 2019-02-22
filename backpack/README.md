@@ -1,5 +1,4 @@
 Tucker Jaenicke
-AI HW 3
 11/6/18
 
 The problem presented was the classic backpack problem where your backpack
