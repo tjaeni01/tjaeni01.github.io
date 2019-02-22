@@ -12,7 +12,7 @@ a mutation where one bit is randomly flipped. The fitness of each chromosome
 was equal to the value of the items, but 0 if the items were overweight.
 The algorithm continues until the generation limit is reached.
 
-The program can be run on the command line witht he command 
+The program can be run on the command line with the command 
 'python3 backpack.py'. The algorithm runs as expected and gets the correct
 answer most of them time, but not every time. Usually when the incorrect
 answer is obtained, a mutation occured to get it there.
