@@ -7,7 +7,7 @@ from collections import Counter
 from collections import namedtuple
 from datetime import datetime
 
-API_KEY = "AIzaSyDJIJSjY9sU9b2v3BHcyy9Ka_xVh70wTrY"
+API_KEY = "YOUR_GOOGLE_API_KEY"
 af = addfips.AddFIPS() #initialize 
 writer = tsv.TsvWriter(open("counties.tsv", "w"))
 countyDict = np.load('countyDict.npy').item() #initialize dictionary
