@@ -17,3 +17,6 @@ The program can be run on the command line witht he command
 'python3 backpack.py'. The algorithm runs as expected and gets the correct
 answer most of them time, but not every time. Usually when the incorrect
 answer is obtained, a mutation occured to get it there.
+
+The weights and values of the items in the backpack are hardcoded into the
+program, but can easily be editted to accept user input.
